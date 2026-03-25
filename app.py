@@ -56,7 +56,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-    print ('desenvolvido por: lourenco borges - github:')
-    
-    print ('acesse: https://github.com/lourenco-borges')
